@@ -1,0 +1,80 @@
+.count-title {
+  display: block;
+  margin-bottom: 15px;
+  font: normal 0.94em "Lato";
+  color: #f10d0d;
+  text-transform: uppercase;
+}
+.footer {
+  background-color: red;
+}
+/* .container_div {
+    position: absolute;
+  
+    height: 100%;
+    width: 800px;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  } */
+
+.para {
+  font-size: 12px;
+  font-family: Roboto, sans-serif;
+  background-color: black;
+
+  color: rgba(5, 238, 5, 0.9);
+
+  letter-spacing: 2px;
+  text-align: center;
+
+  animation: glow 10s infinite;
+}
+.fs-48 {
+  font-size: 48px;
+  color: white;
+}
+
+.upper-text {
+  text-align: center;
+
+  color: purple;
+  font-size: 12px;
+  font-weight: bold;
+}
+.rowClass {
+  display: flex;
+  flex-direction: column;
+  background: black;
+  padding: 10px 0;
+
+  border-radius: 5px;
+}
+.flex-class {
+  display: flex;
+  flex-direction: row;
+  background: black;
+  justify-content: space-evenly;
+}
+@media screen and (max-width: 768px) {
+  .flex-class {
+    flex-direction: column;
+  }
+  .counterSlider {
+    justify-content: center;
+    padding: 0px;
+  }
+}
+.text-second {
+  font-size: 12px;
+}
+.counterSlider {
+  background: linear-gradient(120deg, #cb01ff 0%, #00ff57 100%);
+  border-radius: 10px;
+  padding: 3px;
+  width: 100%;
+  max-width: 400px;
+}

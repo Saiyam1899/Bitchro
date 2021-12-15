@@ -1,0 +1,64 @@
+.one {
+  background-image: url("../image/finalphoto.jpg");
+
+  background-repeat: no-repeat;
+
+  background-size: cover;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  opacity: 0.9;
+}
+
+.text {
+  font-style: normal;
+  font-weight: bolder;
+  font-size: 69px;
+  line-height: 118px;
+  text-align: center;
+  color: #7879f1;
+  font-family: "Franklin Gothic";
+}
+.text-second {
+  font-style: normal;
+  font-family: "Franklin Gothic";
+  font-weight: bolder;
+  font-size: 38px;
+  line-height: 59px;
+  text-align: center;
+  color: #f4f4fa;
+}
+.text-task {
+  opacity: 1;
+  font-family: "Franklin Gothic";
+  font-style: normal;
+  font-weight: bolder;
+  font-size: 24px;
+  line-height: 27px;
+  text-align: center;
+  color: #08ff21;
+}
+
+.header {
+  background-image: linear-gradient(180deg, #07080b, rgb(95 4 100));
+  font-family: "Franklin Gothic";
+  padding: 10px;
+}
+.pendingButton {
+  background-image: url("../image/pending.png");
+  background-color: transparent;
+  background-size: contain;
+  background-repeat: no-repeat;
+  border: none;
+
+  width: 185px;
+  height: 70px;
+}
+.completedButton {
+  background-image: url("../image/completed.png");
+  background-color: transparent;
+  background-size: cover;
+  border: none;
+  width: 185px;
+  height: 70px;
+}
