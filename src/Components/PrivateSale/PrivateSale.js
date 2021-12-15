@@ -79,7 +79,7 @@ export default function PrivateSales() {
         <CircleImage src={process.env.PUBLIC_URL + "assets/images/bg.png"} />
 
         <img
-          src={process.env.PUBLIC_URL + "assets/Psale/Private-sector-.png"}
+          src={process.env.PUBLIC_URL + "assets/Psale/private-sector-.png"}
           alt=""
           style={{ zIndex: "100" }}
           className={css(styles.image_private)}
