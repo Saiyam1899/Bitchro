@@ -1,0 +1,30 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  id="Layer_1"
+  data-name="Layer 1"
+  viewBox="0 0 222.02 246.11"
+><defs><style
+    >.cls-1{fill:none;}.cls-2{clip-path:url(#clip-path);}.cls-3{fill:url(#Degradado_sin_nombre_2074);}</style><clipPath
+      id="clip-path"
+    ><polygon
+        class="cls-1"
+        points="217.16 229.79 19.05 246.1 25.83 29.22 222.02 6.83 217.16 229.79"
+      /></clipPath><linearGradient
+      id="Degradado_sin_nombre_2074"
+      y1="123.05"
+      x2="222.02"
+      y2="123.05"
+      gradientUnits="userSpaceOnUse"
+    ><stop offset="0" stop-color="#cb01ff" /><stop
+        offset="1"
+        stop-color="#00ff57"
+      /></linearGradient></defs><g class="cls-2"><image
+      width="2000"
+      height="1111"
+      transform="translate(-58.72 34.99) rotate(-5.34) scale(0.2)"
+      xlink:href=""
+    /></g><polygon
+    class="cls-3"
+    points="222.02 6.83 204.71 0 5.03 16.45 0 239.51 19.05 246.1 25.83 29.22 222.02 6.83"
+  /></svg>

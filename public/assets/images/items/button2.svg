@@ -1,0 +1,378 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  viewBox="0 0 162.78 56.39"
+><defs><style
+    >.cls-1{fill:none;clip-rule:evenodd;}.cls-2{isolation:isolate;}.cls-10,.cls-11,.cls-12,.cls-13,.cls-14,.cls-15,.cls-16,.cls-17,.cls-18,.cls-19,.cls-20,.cls-21,.cls-22,.cls-23,.cls-24,.cls-25,.cls-26,.cls-27,.cls-28,.cls-29,.cls-3,.cls-30,.cls-31,.cls-32,.cls-33,.cls-36,.cls-37,.cls-38,.cls-4,.cls-5,.cls-6,.cls-7,.cls-8,.cls-9{fill-rule:evenodd;}.cls-3{fill:url(#New_Gradient_Swatch_148);}.cls-4{fill:#8e8e8e;}.cls-5{fill:url(#Degradado_sin_nombre_2074);}.cls-6{fill:url(#linear-gradient);}.cls-7{fill:url(#linear-gradient-2);}.cls-8{fill:url(#linear-gradient-3);}.cls-9{fill:url(#linear-gradient-4);}.cls-10{fill:url(#linear-gradient-5);}.cls-11{fill:#141233;}.cls-12{fill:url(#linear-gradient-6);}.cls-13{fill:url(#New_Gradient_Swatch_141);}.cls-14{fill:#7b7b7b;}.cls-15{fill:#a7a7a7;}.cls-16{fill:url(#New_Gradient_Swatch_139);}.cls-17{fill:#fff;}.cls-18{fill:url(#New_Gradient_Swatch_148-2);}.cls-19{fill:url(#Degradado_sin_nombre_2074-2);}.cls-20{fill:url(#linear-gradient-7);}.cls-21{fill:url(#linear-gradient-8);}.cls-22{fill:url(#linear-gradient-9);}.cls-23{fill:url(#linear-gradient-10);}.cls-24{fill:url(#New_Gradient_Swatch_141-2);}.cls-25{fill:url(#New_Gradient_Swatch_139-2);}.cls-26{fill:url(#linear-gradient-11);}.cls-27{fill:url(#linear-gradient-12);}.cls-28{fill:url(#New_Gradient_Swatch_148-3);}.cls-29{fill:url(#Degradado_sin_nombre_2074-3);}.cls-30{fill:url(#Degradado_sin_nombre_2074-4);}.cls-31{fill:url(#Degradado_sin_nombre_2074-5);}.cls-32{fill:url(#Degradado_sin_nombre_2074-6);}.cls-33{fill:url(#Degradado_sin_nombre_2074-7);}.cls-34,.cls-38{mix-blend-mode:screen;}.cls-35{clip-path:url(#clip-path);}.cls-36{fill:url(#Degradado_sin_nombre_2074-8);}.cls-37{fill:url(#Degradado_sin_nombre_2074-9);}.cls-38{fill:#55c6ff;}</style><linearGradient
+      id="New_Gradient_Swatch_148"
+      x1="32.3"
+      y1="39.3"
+      x2="32.3"
+      y2="17.09"
+      gradientUnits="userSpaceOnUse"
+    ><stop offset="0" stop-color="#6280bc" /><stop
+        offset="1"
+        stop-color="#3b597d"
+      /></linearGradient><linearGradient
+      id="Degradado_sin_nombre_2074"
+      x1="1.16"
+      y1="28.19"
+      x2="63.44"
+      y2="28.19"
+      gradientUnits="userSpaceOnUse"
+    ><stop offset="0" stop-color="#cb01ff" /><stop
+        offset="1"
+        stop-color="#00ff57"
+      /></linearGradient><linearGradient
+      id="linear-gradient"
+      x1="32.3"
+      y1="18.18"
+      x2="32.3"
+      y2="17.09"
+      gradientUnits="userSpaceOnUse"
+    ><stop offset="0" stop-color="#80a8e8" /><stop
+        offset="1"
+        stop-color="#4e7699"
+      /></linearGradient><linearGradient
+      id="linear-gradient-2"
+      x1="32.3"
+      y1="19.27"
+      x2="32.3"
+      y2="18.18"
+      gradientUnits="userSpaceOnUse"
+    ><stop offset="0" stop-color="#204270" /><stop
+        offset="1"
+        stop-color="#335d87"
+      /></linearGradient><linearGradient
+      id="linear-gradient-3"
+      x1="32.3"
+      y1="38.21"
+      x2="32.3"
+      y2="37.12"
+      xlink:href="#linear-gradient"
+    /><linearGradient
+      id="linear-gradient-4"
+      x1="32.3"
+      y1="39.3"
+      x2="32.3"
+      y2="38.21"
+      xlink:href="#linear-gradient-2"
+    /><linearGradient
+      id="linear-gradient-5"
+      x1="1.18"
+      y1="39.3"
+      x2="1.18"
+      y2="28.19"
+      gradientUnits="userSpaceOnUse"
+    ><stop offset="0" stop-color="#273f5e" /><stop
+        offset="1"
+        stop-color="#4e6880"
+      /></linearGradient><linearGradient
+      id="linear-gradient-6"
+      x1="1.18"
+      y1="28.19"
+      x2="1.18"
+      y2="17.09"
+      gradientUnits="userSpaceOnUse"
+    ><stop offset="0" stop-color="#4e7699" /><stop
+        offset="1"
+        stop-color="#80a8e8"
+      /></linearGradient><linearGradient
+      id="New_Gradient_Swatch_141"
+      x1="63.43"
+      y1="39.3"
+      x2="63.43"
+      y2="28.19"
+      gradientUnits="userSpaceOnUse"
+    ><stop offset="0" stop-color="#80a8e8" /><stop
+        offset="1"
+        stop-color="#3a587d"
+      /></linearGradient><linearGradient
+      id="New_Gradient_Swatch_139"
+      x1="60.34"
+      y1="23.19"
+      x2="64.59"
+      y2="23.19"
+      gradientUnits="userSpaceOnUse"
+    ><stop offset="0" stop-color="#204954" /><stop
+        offset="1"
+        stop-color="#1b3840"
+      /></linearGradient><linearGradient
+      id="New_Gradient_Swatch_148-2"
+      x1="127.09"
+      y1="39.3"
+      x2="127.09"
+      y2="17.09"
+      xlink:href="#New_Gradient_Swatch_148"
+    /><linearGradient
+      id="Degradado_sin_nombre_2074-2"
+      x1="95.96"
+      y1="28.19"
+      x2="158.23"
+      y2="28.19"
+      xlink:href="#Degradado_sin_nombre_2074"
+    /><linearGradient
+      id="linear-gradient-7"
+      x1="127.09"
+      y1="18.18"
+      x2="127.09"
+      y2="17.09"
+      xlink:href="#linear-gradient"
+    /><linearGradient
+      id="linear-gradient-8"
+      x1="127.09"
+      y1="19.27"
+      x2="127.09"
+      y2="18.18"
+      xlink:href="#linear-gradient-2"
+    /><linearGradient
+      id="linear-gradient-9"
+      x1="127.09"
+      y1="38.21"
+      x2="127.09"
+      y2="37.12"
+      xlink:href="#linear-gradient"
+    /><linearGradient
+      id="linear-gradient-10"
+      x1="127.09"
+      y1="39.3"
+      x2="127.09"
+      y2="38.21"
+      xlink:href="#linear-gradient-2"
+    /><linearGradient
+      id="New_Gradient_Swatch_141-2"
+      x1="95.97"
+      y1="39.3"
+      x2="95.97"
+      y2="28.19"
+      xlink:href="#New_Gradient_Swatch_141"
+    /><linearGradient
+      id="New_Gradient_Swatch_139-2"
+      x1="94.81"
+      y1="23.19"
+      x2="99.06"
+      y2="23.19"
+      xlink:href="#New_Gradient_Swatch_139"
+    /><linearGradient
+      id="linear-gradient-11"
+      x1="158.22"
+      y1="39.3"
+      x2="158.22"
+      y2="28.19"
+      xlink:href="#linear-gradient-5"
+    /><linearGradient
+      id="linear-gradient-12"
+      x1="158.22"
+      y1="28.19"
+      x2="158.22"
+      y2="17.09"
+      xlink:href="#linear-gradient-6"
+    /><linearGradient
+      id="New_Gradient_Swatch_148-3"
+      x1="79.7"
+      y1="53.89"
+      x2="79.7"
+      y2="2.5"
+      xlink:href="#New_Gradient_Swatch_148"
+    /><linearGradient
+      id="Degradado_sin_nombre_2074-3"
+      x1="79.7"
+      y1="48.86"
+      x2="79.7"
+      y2="7.53"
+      xlink:href="#Degradado_sin_nombre_2074"
+    /><linearGradient
+      id="Degradado_sin_nombre_2074-4"
+      x1="79.7"
+      y1="5.01"
+      x2="79.7"
+      y2="2.5"
+      xlink:href="#Degradado_sin_nombre_2074"
+    /><linearGradient
+      id="Degradado_sin_nombre_2074-5"
+      x1="79.7"
+      y1="53.89"
+      x2="79.7"
+      y2="51.37"
+      xlink:href="#Degradado_sin_nombre_2074"
+    /><linearGradient
+      id="Degradado_sin_nombre_2074-6"
+      x1="7.67"
+      y1="53.89"
+      x2="7.67"
+      y2="28.19"
+      xlink:href="#Degradado_sin_nombre_2074"
+    /><linearGradient
+      id="Degradado_sin_nombre_2074-7"
+      x1="7.67"
+      y1="28.19"
+      x2="7.67"
+      y2="2.5"
+      xlink:href="#Degradado_sin_nombre_2074"
+    /><clipPath id="clip-path"><polygon
+        class="cls-1"
+        points="14.82 7.53 7.64 28.19 14.82 48.86 144.58 48.86 151.75 28.19 144.58 7.53 14.82 7.53 14.82 7.53"
+      /></clipPath><linearGradient
+      id="Degradado_sin_nombre_2074-8"
+      x1="151.72"
+      y1="53.89"
+      x2="151.72"
+      y2="28.19"
+      xlink:href="#Degradado_sin_nombre_2074"
+    /><linearGradient
+      id="Degradado_sin_nombre_2074-9"
+      x1="151.72"
+      y1="28.19"
+      x2="151.72"
+      y2="2.5"
+      xlink:href="#Degradado_sin_nombre_2074"
+    /></defs><g class="cls-2"><g id="Layer_1" data-name="Layer 1"><polygon
+        class="cls-3"
+        points="2.72 17.09 61.89 17.09 65.74 28.19 61.89 39.3 2.72 39.3 -1.14 28.19 2.72 17.09 2.72 17.09"
+      /><polygon
+        class="cls-4"
+        points="3.49 18.18 0.01 28.19 3.49 38.21 61.11 38.21 64.59 28.19 61.11 18.18 3.49 18.18 3.49 18.18"
+      /><polygon
+        class="cls-5"
+        points="4.26 19.27 1.17 28.19 4.26 37.12 60.34 37.12 63.44 28.19 60.34 19.27 4.26 19.27 4.26 19.27"
+      /><polygon
+        class="cls-6"
+        points="3.49 18.18 61.11 18.18 61.89 17.09 2.72 17.09 3.49 18.18 3.49 18.18"
+      /><polygon
+        class="cls-7"
+        points="61.11 18.18 3.49 18.18 4.26 19.27 60.34 19.27 61.11 18.18 61.11 18.18"
+      /><polygon
+        class="cls-8"
+        points="60.34 37.12 4.26 37.12 3.49 38.21 61.11 38.21 60.34 37.12 60.34 37.12"
+      /><polygon
+        class="cls-9"
+        points="61.11 38.21 3.49 38.21 2.72 39.3 61.89 39.3 61.11 38.21 61.11 38.21"
+      /><polygon
+        class="cls-10"
+        points="2.57 35.56 0.01 28.19 -1.14 28.19 1.42 35.56 2.72 39.3 3.49 38.21 2.57 35.56 2.57 35.56"
+      /><polygon
+        class="cls-11"
+        points="0.01 28.19 2.57 35.56 3.49 38.21 4.26 37.12 3.72 35.56 1.17 28.19 0.01 28.19 0.01 28.19"
+      /><polygon
+        class="cls-12"
+        points="0.01 28.19 2.57 20.83 3.49 18.18 2.72 17.09 1.42 20.83 -1.14 28.19 0.01 28.19 0.01 28.19"
+      /><polygon
+        class="cls-11"
+        points="3.49 18.18 2.57 20.83 0.01 28.19 1.17 28.19 3.72 20.83 4.26 19.27 3.49 18.18 3.49 18.18"
+      /><polygon
+        class="cls-13"
+        points="62.03 35.56 64.59 28.19 65.74 28.19 63.18 35.56 61.89 39.3 61.11 38.21 62.03 35.56 62.03 35.56"
+      /><polygon
+        class="cls-14"
+        points="64.59 28.19 62.03 35.56 61.11 38.21 60.34 37.12 60.88 35.56 63.44 28.19 64.59 28.19 64.59 28.19"
+      /><polygon
+        class="cls-15"
+        points="64.59 28.19 62.03 20.83 61.11 18.18 61.89 17.09 63.18 20.83 65.74 28.19 64.59 28.19 64.59 28.19"
+      /><polygon
+        class="cls-16"
+        points="61.11 18.18 62.03 20.83 64.59 28.19 63.44 28.19 60.88 20.83 60.34 19.27 61.11 18.18 61.11 18.18"
+      /><path
+        class="cls-17"
+        d="M32.3,37.89c9.39,0,18.27.12,26.17.32H6.14c7.89-.2,16.77-.32,26.16-.32Z"
+      /><polygon
+        class="cls-18"
+        points="97.51 17.09 156.68 17.09 160.53 28.19 156.68 39.3 97.51 39.3 93.66 28.19 97.51 17.09 97.51 17.09"
+      /><polygon
+        class="cls-4"
+        points="98.28 18.18 94.81 28.19 98.28 38.21 155.91 38.21 159.38 28.19 155.91 18.18 98.28 18.18 98.28 18.18"
+      /><polygon
+        class="cls-19"
+        points="99.06 19.27 95.96 28.19 99.06 37.12 155.13 37.12 158.23 28.19 155.13 19.27 99.06 19.27 99.06 19.27"
+      /><polygon
+        class="cls-20"
+        points="98.28 18.18 155.91 18.18 156.68 17.09 97.51 17.09 98.28 18.18 98.28 18.18"
+      /><polygon
+        class="cls-21"
+        points="155.91 18.18 98.28 18.18 99.06 19.27 155.13 19.27 155.91 18.18 155.91 18.18"
+      /><polygon
+        class="cls-22"
+        points="155.13 37.12 99.06 37.12 98.28 38.21 155.91 38.21 155.13 37.12 155.13 37.12"
+      /><polygon
+        class="cls-23"
+        points="155.91 38.21 98.28 38.21 97.51 39.3 156.68 39.3 155.91 38.21 155.91 38.21"
+      /><polygon
+        class="cls-24"
+        points="97.36 35.56 94.81 28.19 93.66 28.19 96.21 35.56 97.51 39.3 98.28 38.21 97.36 35.56 97.36 35.56"
+      /><polygon
+        class="cls-14"
+        points="94.81 28.19 97.36 35.56 98.28 38.21 99.06 37.12 98.52 35.56 95.96 28.19 94.81 28.19 94.81 28.19"
+      /><polygon
+        class="cls-15"
+        points="94.81 28.19 97.36 20.83 98.28 18.18 97.51 17.09 96.21 20.83 93.66 28.19 94.81 28.19 94.81 28.19"
+      /><polygon
+        class="cls-25"
+        points="98.28 18.18 97.36 20.83 94.81 28.19 95.96 28.19 98.52 20.83 99.06 19.27 98.28 18.18 98.28 18.18"
+      /><polygon
+        class="cls-26"
+        points="156.82 35.56 159.38 28.19 160.53 28.19 157.98 35.56 156.68 39.3 155.91 38.21 156.82 35.56 156.82 35.56"
+      /><polygon
+        class="cls-11"
+        points="159.38 28.19 156.82 35.56 155.91 38.21 155.13 37.12 155.67 35.56 158.23 28.19 159.38 28.19 159.38 28.19"
+      /><polygon
+        class="cls-27"
+        points="159.38 28.19 156.82 20.83 155.91 18.18 156.68 17.09 157.98 20.83 160.53 28.19 159.38 28.19 159.38 28.19"
+      /><polygon
+        class="cls-11"
+        points="155.91 18.18 156.82 20.83 159.38 28.19 158.23 28.19 155.67 20.83 155.13 19.27 155.91 18.18 155.91 18.18"
+      /><path
+        class="cls-17"
+        d="M127.09,37.89c9.39,0,18.27.12,26.17.32H100.93c7.89-.2,16.77-.32,26.16-.32Z"
+      /><polygon
+        class="cls-28"
+        points="11.23 2.5 148.16 2.5 157.08 28.19 148.16 53.89 11.23 53.89 2.32 28.19 11.23 2.5 11.23 2.5"
+      /><polygon
+        class="cls-4"
+        points="13.03 5.01 4.98 28.19 13.03 51.38 146.37 51.38 154.41 28.19 146.37 5.01 13.03 5.01 13.03 5.01"
+      /><polygon
+        class="cls-29"
+        points="14.82 7.53 7.64 28.19 14.82 48.86 144.58 48.86 151.75 28.19 144.58 7.53 14.82 7.53 14.82 7.53"
+      /><polygon
+        class="cls-30"
+        points="13.03 5.01 146.37 5.01 148.16 2.5 11.23 2.5 13.03 5.01 13.03 5.01"
+      /><polygon
+        class="cls-11"
+        points="146.37 5.01 13.03 5.01 14.82 7.53 144.58 7.53 146.37 5.01 146.37 5.01"
+      /><polygon
+        class="cls-11"
+        points="144.58 48.86 14.82 48.86 13.03 51.38 146.37 51.38 144.58 48.86 144.58 48.86"
+      /><polygon
+        class="cls-31"
+        points="146.37 51.38 13.03 51.38 11.23 53.89 148.16 53.89 146.37 51.38 146.37 51.38"
+      /><polygon
+        class="cls-32"
+        points="10.9 45.24 4.98 28.19 2.32 28.19 8.23 45.24 11.23 53.89 13.03 51.38 10.9 45.24 10.9 45.24"
+      /><polygon
+        class="cls-11"
+        points="4.98 28.19 10.9 45.24 13.03 51.38 14.82 48.86 13.56 45.24 7.64 28.19 4.98 28.19 4.98 28.19"
+      /><polygon
+        class="cls-33"
+        points="4.98 28.19 10.9 11.14 13.03 5.01 11.23 2.5 8.23 11.14 2.32 28.19 4.98 28.19 4.98 28.19"
+      /><polygon
+        class="cls-11"
+        points="13.03 5.01 10.9 11.14 4.98 28.19 7.64 28.19 13.56 11.14 14.82 7.53 13.03 5.01 13.03 5.01"
+      /><g class="cls-34"><g class="cls-35"><image
+            width="160"
+            height="58"
+            transform="translate(0 -0.81)"
+            xlink:href="data:image/png;base64,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"
+          /></g></g><polygon
+        class="cls-36"
+        points="148.5 45.24 154.41 28.19 157.08 28.19 151.16 45.24 148.16 53.89 146.37 51.38 148.5 45.24 148.5 45.24"
+      /><polygon
+        class="cls-11"
+        points="154.41 28.19 148.5 45.24 146.37 51.38 144.58 48.86 145.83 45.24 151.75 28.19 154.41 28.19 154.41 28.19"
+      /><polygon
+        class="cls-37"
+        points="154.41 28.19 148.5 11.14 146.37 5.01 148.16 2.5 151.16 11.14 157.08 28.19 154.41 28.19 154.41 28.19"
+      /><polygon
+        class="cls-11"
+        points="146.37 5.01 148.5 11.14 154.41 28.19 151.75 28.19 145.83 11.14 144.58 7.53 146.37 5.01 146.37 5.01"
+      /><path
+        class="cls-38"
+        d="M79.7,50.64c21.73,0,42.27.27,60.55.73H19.15c18.27-.46,38.82-.73,60.55-.73Z"
+      /></g></g></svg>

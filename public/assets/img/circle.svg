@@ -1,0 +1,22 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  id="Layer_1"
+  data-name="Layer 1"
+  viewBox="0 0 12.35 12.35"
+><defs><style
+    >.cls-1{fill:url(#Degradado_sin_nombre_2074);}</style><linearGradient
+      id="Degradado_sin_nombre_2074"
+      y1="6.18"
+      x2="12.35"
+      y2="6.18"
+      gradientUnits="userSpaceOnUse"
+    ><stop offset="0" stop-color="#cb01ff" /><stop
+        offset="1"
+        stop-color="#00ff57"
+      /></linearGradient></defs><circle
+    class="cls-1"
+    cx="6.18"
+    cy="6.18"
+    r="6.18"
+  /></svg>
